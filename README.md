@@ -31,5 +31,6 @@ ExTracTor is link extractor based from Samehadaku website
 
 ### Prerequisites
 - Python
+- Streamlit
 
 ![](https://i.ibb.co/q5CpYhQ/2023-02-08-09-41-13.gif)
