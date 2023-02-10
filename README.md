@@ -1,11 +1,10 @@
 ```
-                      ______   _______          _______         
-                     |  ____| |__   __|        |__   __|        
-                     | |__  __  _| |_ __ __ _  ___| | ___  _ __ 
-                     |  __| \ \/ / | '__/ _` |/ __| |/ _ \| '__|
-                     | |____ >  <| | | | (_| | (__| | (_) | |   
-                     |______/_/\_\_|_|  \__,_|\___|_|\___/|_|   
-
+                                         _                ______   _______          _______         
+                             /\         (_)              |  ____| |__   __|        |__   __|        
+                            /  \   _ __  _ _ __ ___   ___| |__  __  _| |_ __ __ _  ___| | ___  _ __ 
+                           / /\ \ | '_ \| | '_ ` _ \ / _ \  __| \ \/ / | '__/ _` |/ __| |/ _ \| '__|
+                          / ____ \| | | | | | | | | |  __/ |____ >  <| | | | (_| | (__| | (_) | |   
+                         /_/    \_\_| |_|_|_| |_| |_|\___|______/_/\_\_|_|  \__,_|\___|_|\___/|_|   
 ```                                          
 
 <div align="center">
@@ -27,10 +26,12 @@
 - [Authors](#authors)
 
 ## Getting Started <a name = "getting_started"></a>
-ExTracTor is link extractor based from Samehadaku website
+AnimeExTracTor get download link based from Samehadaku website
 
-### Prerequisites
+## Built Using <a name = "built_using"></a>
 - Python
 - Streamlit
 
-![](https://i.ibb.co/q5CpYhQ/2023-02-08-09-41-13.gif)
+## Authors <a name = "authors"></a>
+- [@Cyper24](https://github.com/Cyper24)
+
